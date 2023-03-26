@@ -1,0 +1,68 @@
+.itemCart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.itemCart img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.itemCart div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+    font-size: 16px;
+}
+
+.itemCart p {
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+
+.itemCart .name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.itemCart .quantity {
+    display: flex;
+    align-items: center;
+}
+
+.itemCart .quantity input {
+    width: 40px;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.itemCart .price {
+    font-weight: bold;
+}
+
+.itemCart .subtotal {
+    font-weight: bold;
+}
+
+.itemCart button {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 20px;
+    border: none;
+    background-color: #dc3545;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    align-self: flex-start;
+}
+
+.itemCart button:hover {
+    background-color: #c82333;
+}
