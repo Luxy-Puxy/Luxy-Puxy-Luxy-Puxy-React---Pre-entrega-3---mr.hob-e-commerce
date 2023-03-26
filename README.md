@@ -23,22 +23,23 @@ Open your web browser and go to http://localhost:3000 to view the app.
 Features
 This e-commerce app has the following features:
 
-Browse items by category or all items
-View item details, including images, description, and price
-Add items to a shopping cart
-View the shopping cart and adjust the quantity of items
-Check out and complete a purchase
-View previous orders in the user's account
+-Browse items by category or all items
+-View item details, including images, description, and price
+-Add items to a shopping cart
+-View the shopping cart and adjust the quantity of items
+-Check out and complete a purchase
+-View previous orders in the user's account
+
+
 Technologies Used
 This project was built using:
 
-React
-React Router
-Context API for state management
-CSS for styling
-Acknowledgments
-This project was created as part of a course on React and e-commerce development. Thank you to the instructors for providing the guidance and resources needed to create this app.
-
+-React
+-React Router
+-Context API for state management
+-CSS for styling
+-Acknowledgments
+-This project was created as part of a course on React and e-commerce development. Thank you to the instructors for providing the guidance and resources needed to create this app.
 
 
 
