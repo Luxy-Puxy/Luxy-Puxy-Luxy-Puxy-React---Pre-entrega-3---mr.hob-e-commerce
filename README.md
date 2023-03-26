@@ -3,7 +3,7 @@
 This is an e-commerce app  I created as a project for [Coderhouse](https://www.coderhouse.com.pe/).
 
 
-Installation
+####Installation
 To install and run this project on your local machine, follow these steps:
 
 Clone this repository by running the following command in your terminal:
@@ -20,7 +20,7 @@ npm start
 
 Open your web browser and go to http://localhost:3000 to view the app.
 
-Features
+####Features
 This e-commerce app has the following features:
 
 -Browse items by category or all items
@@ -31,7 +31,7 @@ This e-commerce app has the following features:
 -View previous orders in the user's account
 
 
-Technologies Used
+####Technologies Used
 This project was built using:
 
 -React
