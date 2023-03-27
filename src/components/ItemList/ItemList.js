@@ -10,6 +10,7 @@ const ItemList = ({ items }) => {
           <Link to={`/item/${item.id}`}>
             <img src={item.image} alt={item.name} />
             <p>{item.name}</p>
+            <p>${item.price}</p>
           </Link>
         </li>
       ))}

@@ -18,6 +18,7 @@ const ItemDetail = ({ data }) => {
         <img className="detail__image" src={data.image} alt="" />
         <div className="content">
           <h1>{data.name}</h1>
+          <p>Unit: ${data.price}</p>
           {goToCart ? (
 						<Link to="/cart"> Go to Cart</Link>
 					) : (
