@@ -42,4 +42,4 @@ This project was built using:
 - Context API for state management
 - CSS for styling
 - Acknowledgments
-- This project was created as part of a course on React and e-commerce development. Thank you to the instructors for providing the guidance and resources needed to create this app.
+#### This project was created as part of a course on React and e-commerce development. Thank you to the instructors for providing the guidance and resources needed to create this app.
